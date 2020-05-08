@@ -3,5 +3,5 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 
 Projects-
 
-1- Calculator using tkinter
-2- Library Management System using tkinter
+1- Calculator using tkinter- It's a simple calculator using tkinter
+2- Library Management System using tkinter- I have used tkinter with DB query
